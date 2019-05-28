@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://zhangco1079.github.io/Blog/"/>
-  <updated>2019-04-27T12:18:03.000Z</updated>
+  <updated>2019-05-28T21:57:15.309Z</updated>
   <id>https://zhangco1079.github.io/Blog/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今天学会了多电脑登陆～</title>
+    <link href="https://zhangco1079.github.io/Blog/2019/05/29/%E4%BB%8A%E5%A4%A9%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%A4%9A%E7%94%B5%E8%84%91%E7%99%BB%E9%99%86%EF%BD%9E/"/>
+    <id>https://zhangco1079.github.io/Blog/2019/05/29/今天学会了多电脑登陆～/</id>
+    <published>2019-05-28T21:52:17.000Z</published>
+    <updated>2019-05-28T21:57:15.309Z</updated>
+    
+    <content type="html"><![CDATA[<p>配置好了新电脑，发现hexo没法在新电脑上发布，于是用了一阵上午搜寻：</p><p><a href="https://blog.csdn.net/eternity1118_/article/details/71194395" target="_blank" rel="noopener">https://blog.csdn.net/eternity1118_/article/details/71194395</a><br>这位的方法最简单，不过缺少了SSH密钥配置的方法，于是继续搜：</p><p><a href="http://jpuyy.com/2012/07/use-github-and-change-computer.html" target="_blank" rel="noopener">http://jpuyy.com/2012/07/use-github-and-change-computer.html</a><br>虽然还不是完全懂，不过照着成功连接了github～</p><p>暂时新电脑配置完毕，之后再慢慢折腾啦～～加油！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;配置好了新电脑，发现hexo没法在新电脑上发布，于是用了一阵上午搜寻：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/eternity1118_/article/details/71194395&quot; target=&quot;_blank&quot; rel=&quot;no
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今天入门了Mongodb</title>
