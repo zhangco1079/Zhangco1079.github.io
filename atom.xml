@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://zhangco1079.github.io/Blog/"/>
-  <updated>2019-05-28T21:57:15.309Z</updated>
+  <updated>2019-05-29T01:51:49.890Z</updated>
   <id>https://zhangco1079.github.io/Blog/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://zhangco1079.github.io/Blog/2019/05/29/%E4%BB%8A%E5%A4%A9%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%A4%9A%E7%94%B5%E8%84%91%E7%99%BB%E9%99%86%EF%BD%9E/"/>
     <id>https://zhangco1079.github.io/Blog/2019/05/29/今天学会了多电脑登陆～/</id>
     <published>2019-05-28T21:52:17.000Z</published>
-    <updated>2019-05-28T21:57:15.309Z</updated>
+    <updated>2019-05-29T01:51:49.890Z</updated>
     
-    <content type="html"><![CDATA[<p>配置好了新电脑，发现hexo没法在新电脑上发布，于是用了一阵上午搜寻：</p><p><a href="https://blog.csdn.net/eternity1118_/article/details/71194395" target="_blank" rel="noopener">https://blog.csdn.net/eternity1118_/article/details/71194395</a><br>这位的方法最简单，不过缺少了SSH密钥配置的方法，于是继续搜：</p><p><a href="http://jpuyy.com/2012/07/use-github-and-change-computer.html" target="_blank" rel="noopener">http://jpuyy.com/2012/07/use-github-and-change-computer.html</a><br>虽然还不是完全懂，不过照着成功连接了github～</p><p>暂时新电脑配置完毕，之后再慢慢折腾啦～～加油！</p>]]></content>
+    <content type="html"><![CDATA[<p>配置好了新电脑，发现hexo没法在新电脑上发布，于是用了一阵上网搜寻：</p><p><a href="https://blog.csdn.net/eternity1118_/article/details/71194395" target="_blank" rel="noopener">https://blog.csdn.net/eternity1118_/article/details/71194395</a><br>这位的方法最简单，不过缺少了SSH密钥配置的方法，于是继续搜：</p><p><a href="http://jpuyy.com/2012/07/use-github-and-change-computer.html" target="_blank" rel="noopener">http://jpuyy.com/2012/07/use-github-and-change-computer.html</a><br>虽然还不是完全懂，不过照着成功连接了github～</p><p>暂时新电脑配置完毕，之后再慢慢折腾啦～～加油！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;配置好了新电脑，发现hexo没法在新电脑上发布，于是用了一阵上午搜寻：&lt;/p&gt;
+        &lt;p&gt;配置好了新电脑，发现hexo没法在新电脑上发布，于是用了一阵上网搜寻：&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/eternity1118_/article/details/71194395&quot; target=&quot;_blank&quot; rel=&quot;no
       
     
@@ -110,7 +110,7 @@
     <link href="https://zhangco1079.github.io/Blog/2019/03/30/anaconda%E4%B8%8A%E9%BB%98%E8%AE%A4%E6%B2%A1%E6%9C%89jieba-wordcloud%E7%AD%89%E5%88%86%E8%AF%8D%E5%B8%B8%E7%94%A8%E5%8C%85%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/"/>
     <id>https://zhangco1079.github.io/Blog/2019/03/30/anaconda上默认没有jieba-wordcloud等分词常用包的解决办法/</id>
     <published>2019-03-30T14:13:21.000Z</published>
-    <updated>2019-03-30T14:19:41.000Z</updated>
+    <updated>2019-03-30T14:19:41.699Z</updated>
     
     <content type="html"><![CDATA[<p>在anaconda的环境中搜索jieba/wordcloud/showtext等包，搜不到。<br>网上搜索下，发现anaconda主页有解决办法：<br><a href="https://anaconda.org/zhangco1079/dashboard" target="_blank" rel="noopener">https://anaconda.org/zhangco1079/dashboard</a><br>搜索相关的包，会有命令行安装的命令。如：<br><a href="https://anaconda.org/conda-forge/jieba" target="_blank" rel="noopener">https://anaconda.org/conda-forge/jieba</a><br>中，就有python下jieba包的安装命令。<br>记录下，以后教学生用～～</p>]]></content>
     
@@ -131,7 +131,7 @@
     <link href="https://zhangco1079.github.io/Blog/2019/03/30/pydoc/"/>
     <id>https://zhangco1079.github.io/Blog/2019/03/30/pydoc/</id>
     <published>2019-03-30T01:36:32.000Z</published>
-    <updated>2019-03-30T01:39:15.000Z</updated>
+    <updated>2019-03-30T01:39:15.653Z</updated>
     
     <content type="html"><![CDATA[<p>今天浏览了《python编程之美–最佳实践指南》，感觉是看过的最好的一本python指南书了。<br>其中<code>pydoc</code>的用法尤其值得学习下，搜索了下：<br><a href="https://www.jianshu.com/p/af8eabb43cb8" target="_blank" rel="noopener">https://www.jianshu.com/p/af8eabb43cb8</a><br>中介绍了它的主要功能，是个了解python包和函数的好方法～</p>]]></content>
     
@@ -152,7 +152,7 @@
     <link href="https://zhangco1079.github.io/Blog/2019/03/29/%E5%AE%89%E8%A3%85anaconda%E7%9A%84%E5%9D%91/"/>
     <id>https://zhangco1079.github.io/Blog/2019/03/29/安装anaconda的坑/</id>
     <published>2019-03-29T14:47:55.000Z</published>
-    <updated>2019-03-29T15:15:10.000Z</updated>
+    <updated>2019-03-29T15:15:10.144Z</updated>
     
     <content type="html"><![CDATA[<h3 id="今天读了python编程之美前四章，发现了还有anaconda这种IDE～"><a href="#今天读了python编程之美前四章，发现了还有anaconda这种IDE～" class="headerlink" title="今天读了python编程之美前四章，发现了还有anaconda这种IDE～"></a>今天读了python编程之美前四章，发现了还有anaconda这种IDE～</h3><h3 id="感觉用来教学应该不错，安装简单，界面对文科生比较友好。"><a href="#感觉用来教学应该不错，安装简单，界面对文科生比较友好。" class="headerlink" title="感觉用来教学应该不错，安装简单，界面对文科生比较友好。"></a>感觉用来教学应该不错，安装简单，界面对文科生比较友好。</h3><hr><ol><li><p>anaconda使用参考了：</p><p><a href="https://www.jianshu.com/p/17288627b994?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=seo_notes&amp;utm_source=recommendation" target="_blank" rel="noopener">https://www.jianshu.com/p/17288627b994?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=seo_notes&amp;utm_source=recommendation</a></p></li><li>安装完之后，发现命令行无法访问conda，网上搜索之～大半天才搞清楚情况～参考：<br><a href="https://www.jianshu.com/p/a6084dc03afa" target="_blank" rel="noopener">https://www.jianshu.com/p/a6084dc03afa</a> 解决了这个问题。<br>但我的电脑是在 <code>~/.zshrc</code>中插入<code>&#39;export PATH=~/anaconda3/bin:$PATH&#39;</code></li><li>电脑里有四个python，系统自带python2.7、后来安装的python3.7.2、<br>anaconda默认的python3.7.1和anaconda建立的虚拟环境python3.7.1。<br>如何配置电脑，可以访问这四个又成了难题。搜索之：<br><a href="https://blog.csdn.net/BTUJACK/article/details/81569687" target="_blank" rel="noopener">https://blog.csdn.net/BTUJACK/article/details/81569687</a><br>解决了问题，我的电脑同样在<code>~/.zshrc</code>中插入<br><code>alias python2=&#39;/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7&#39;</code><br><code>alias python3=&#39;/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7&#39;</code><br>解决问题。</li><li>过程中又遇到vim的快捷键问题～继续搜索：<br><a href="https://jingyan.baidu.com/article/495ba8410ff14d38b30ede01.html" target="_blank" rel="noopener">https://jingyan.baidu.com/article/495ba8410ff14d38b30ede01.html</a><br>学会了<code>I</code>是insert，输入结束后按<code>ESC</code>键之后<code>w</code>保存<code>q</code>退出，最后按回车退出。<br>发现vim快捷键也很有用，有空要学一学～～</li></ol><hr><h3 id="总结下来-1-命令行的命令，2-vim快捷键，3-conda-pip-homebrew快捷键"><a href="#总结下来-1-命令行的命令，2-vim快捷键，3-conda-pip-homebrew快捷键" class="headerlink" title="总结下来 1.命令行的命令，2.vim快捷键，3.conda/pip/homebrew快捷键,"></a>总结下来 1.命令行的命令，2.vim快捷键，3.conda/pip/homebrew快捷键,</h3><h3 id="4-python环境配置…等知识都接触了下～虽然浪费了大半天时间，"><a href="#4-python环境配置…等知识都接触了下～虽然浪费了大半天时间，" class="headerlink" title="4.python环境配置…等知识都接触了下～虽然浪费了大半天时间，"></a>4.python环境配置…等知识都接触了下～虽然浪费了大半天时间，</h3><h3 id="但感觉这些原来天书一般的东西也没有那么难了～希望每天都能有今天这样大的进步！加油！！！"><a href="#但感觉这些原来天书一般的东西也没有那么难了～希望每天都能有今天这样大的进步！加油！！！" class="headerlink" title="但感觉这些原来天书一般的东西也没有那么难了～希望每天都能有今天这样大的进步！加油！！！"></a>但感觉这些原来天书一般的东西也没有那么难了～希望每天都能有今天这样大的进步！加油！！！</h3>]]></content>
     
@@ -173,7 +173,7 @@
     <link href="https://zhangco1079.github.io/Blog/2019/03/26/%E5%91%A8%E4%BA%8C%E7%9A%84%E6%99%9A%E4%B8%8A/"/>
     <id>https://zhangco1079.github.io/Blog/2019/03/26/周二的晚上/</id>
     <published>2019-03-26T11:08:36.000Z</published>
-    <updated>2019-03-26T11:13:25.000Z</updated>
+    <updated>2019-03-26T11:13:25.022Z</updated>
     
     <content type="html"><![CDATA[<p>今天上午去打了狂犬育苗第三针，下午开会，晚上和老婆吃的排骨、土豆片和芦笋炒香肠。饭后一杯芒果牛奶～美美哒！感叹料理机的强大～也觉得有人做饭的日子真的不错～～LOL</p><p>老婆今天学了几个新的单词，过来跟我炫耀。我大大地夸奖了她～ 她得意极了。  </p>]]></content>
     
@@ -196,7 +196,7 @@
     <link href="https://zhangco1079.github.io/Blog/2019/03/26/hexo%E7%BD%91%E9%A1%B5%E7%BB%88%E4%BA%8E%E6%98%BE%E7%A4%BA%E7%BD%91%E9%A1%B5%E4%BA%86%E3%80%82%E3%80%82%E3%80%82/"/>
     <id>https://zhangco1079.github.io/Blog/2019/03/26/hexo网页终于显示网页了。。。/</id>
     <published>2019-03-26T03:39:42.000Z</published>
-    <updated>2019-03-26T03:54:20.000Z</updated>
+    <updated>2019-03-26T03:54:20.256Z</updated>
     
     <content type="html"><![CDATA[<p>  搜索了半天，发现网上同样有人有类似的问题。通过下面的网友提供的方法解决了问题。。。原来就是root没有写对。。。</p><p> <a href="https://blog.csdn.net/qq_29347295/article/details/79005154" target="_blank" rel="noopener">https://blog.csdn.net/qq_29347295/article/details/79005154</a></p><p> 感谢这位网友～以后争取每天都上来发发牢骚～～哈哈！<br> PS:我安装和使用hexo借鉴了下面网友的办法～一并感谢！！</p><p>  <a href="https://www.jianshu.com/p/484e4ca7edf0" target="_blank" rel="noopener">https://www.jianshu.com/p/484e4ca7edf0</a></p><p>  <a href="https://www.jianshu.com/p/d21a7ca5b9fb?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=seo_notes&amp;utm_source=recommendation" target="_blank" rel="noopener">https://www.jianshu.com/p/d21a7ca5b9fb?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=seo_notes&amp;utm_source=recommendation</a></p>]]></content>
     
